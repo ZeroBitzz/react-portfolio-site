@@ -204,11 +204,6 @@ footer {
         display: none;
     }
 
-    #name {
-        font-size: xx-small;
-        margin-left: -50px;
-    }
-
     #projects-label {
         margin-top: -7%;
         font-size: 22px;
@@ -219,9 +214,6 @@ footer {
         width: 100px;
         height: 50px;
         font-size: 20px;
-    }
-    .blinker {
-        display: none;
     }
 
     #status-span {
